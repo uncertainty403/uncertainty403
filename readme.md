@@ -5,7 +5,7 @@
 > :globe_with_meridians: Web Developer  
 > :computer: Python & NodeJS Enthusiast
 
-  # :tools: Technologies & Tools
+  # 🛠️ Technologies & Tools
   
   ![NodeJS](https://img.shields.io/badge/-NodeJS-090909?style=for-the-badge&logo=node.js&logoColor=339933)
   ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=3776AB)
