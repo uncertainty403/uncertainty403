@@ -1,13 +1,5 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Привет, я Uncertainty!
 
-<div align="center">
-  
-### 💫 Fullstack Developer | Bot Creator | Tech Enthusiast
-  
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Discord+%26+Telegram+Bots+Developer;Web+Development+Enthusiast;Python+%26+NodeJS+Expert;Always+learning+new+technologies!" alt="Typing SVG" />
-
-</div>
-
 ---
 
 ## 🚀 О себе
