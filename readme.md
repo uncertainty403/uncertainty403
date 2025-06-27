@@ -1,11 +1,4 @@
-# 👋 Hello, I'm Uncertainty
-
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-  
-  **Discord & Telegram Bots Developer | Web Developer**
-</div>
-
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Uncertainty
 ---
 
 ## 🚀 Tech Stack
@@ -28,6 +21,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uncertainty&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uncertainty&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=uncertainty403&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uncertainty403&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" />
 </div>
